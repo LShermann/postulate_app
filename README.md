@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+* usuario admin
+* admin@mail.com
+* password
+* 123456
